@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e9818b2-9189-4112-9016-12da5c4c59bb" name="Changes" comment="finished kanyewest api implementation">
+    <list default="true" id="4e9818b2-9189-4112-9016-12da5c4c59bb" name="Changes" comment="fixed color not being displayed properly">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670841247212</updated>
-      <workItem from="1670841248272" duration="6515000" />
+      <workItem from="1670841248272" duration="7530000" />
     </task>
     <task id="LOCAL-00001" summary="finished kanyewest api implementation">
       <created>1670848508885</created>
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670848508885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed color not being displayed properly">
+      <created>1670849806746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670849806746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished kanyewest api implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished kanyewest api implementation" />
+    <MESSAGE value="fixed color not being displayed properly" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed color not being displayed properly" />
   </component>
 </project>
